@@ -1,122 +1,63 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FUTV.cr" tvg-name="FUTV" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/1280px-Logo_de_FUTV.svg.png" group-title="COSTA RICA",FUTV
 http://190.92.72.98:8185/play/a0es/index.m3u8
-#EXTINF:-1,MX| A3 SERIES HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190897
 
-#EXTINF:-1,MX| TNT SERIES HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190898
-
-#EXTINF:-1,MX| AZ CINEMA HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190899
-
-#EXTINF:-1,MX| AZ MUNDO HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190928
-
-#EXTINF:-1,MX| AZTECA 7  HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190931
-
-#EXTINF:-1,MX| AZTECA CLIC HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190932
-
-#EXTINF:-1,MX| AZTECA CORAZON HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190933
-
-#EXTINF:-1,MX| AZTECA UNO HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190937
-
-#EXTINF:-1,MX| FX HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190909
-
-#EXTINF:-1,MX| FXM HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190910
-
-#EXTINF:-1,MX| AXN HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190808
-
-#EXTINF:-1,MX| MTV HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190914
-
-#EXTINF:-1,MX| MTV HITS HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190915
-
-#EXTINF:-1,MX| GOLDEN EDGE HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190917
-
-#EXTINF:-1,MX| GOLDEN HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190918
-
-#EXTINF:-1,MX| GOLDEN PLUS HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190919
-
-#EXTINF:-1,MX| TELEVISA PUEBLO FHD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190921
-
-#EXTINF:-1,MX| DISTRITO COMEDIA HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190922
-
-#EXTINF:-1,MX| FOOD NETWORK HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190924
-
-#EXTINF:-1,MX| LIFETIME HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190938
-
-#EXTINF:-1,MX| VH1 HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190942
-
-#EXTINF:-1,MX| BANDAMAX SD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190946
-
-#EXTINF:-1,MX| COMEDY CENTRAL HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190947
-
-#EXTINF:-1,MX| CINEMAX FHD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190952
-
-#EXTINF:-1,MX| UNIVERSAL CHANNEL HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190957
-
-#EXTINF:-1,MX| EWTN SD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190829
-
-#EXTINF:-1,MX| WARNER BROS HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190948
-
-#EXTINF:-1,MX| TELEVISA FHD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190920
-
-#EXTINF:-1,MX| RCG 2 SALTILLO SD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190858
-
-#EXTINF:-1,MX| GARAGE TV HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190833
-
-#EXTINF:-1,MX| CANAL 10 CANCUN HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190815
-
-#EXTINF:-1,MX| TELEFORMULA HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/190806
-
-#EXTINF:-1,MX| ULTRA MEX HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/36466
-
-#EXTINF:-1,MX| ULTRA MACHO HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/36467
-
-#EXTINF:-1,MX| ULTRA KIDZ HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/36468
-
-#EXTINF:-1,MX| ULTRA FIESTA HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/36469
-
-#EXTINF:-1,MX| ULTRA FAMILIA HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/36470
-
-#EXTINF:-1,MX| ULTRA DOCU HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/36471
-
-#EXTINF:-1,MX| ULTRA CLASICO HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/36472
-
-#EXTINF:-1,MX| ULTRA CINE HD
-http://s1.pixel4k.uk:900/4834323539/0872279724/36473
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dIoU3FG.png" group-title="LATINO ENTERTAINMENT",A&E Latinoamérica
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JOCjq3R.png" group-title="LATINO ENTERTAINMENT",Comedy Central Latinoamérica Sur
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="LATINO ENTERTAINMENT",Paramount Network Latin America
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="LATINO ENTERTAINMENT",Sony Channel Andes
+https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/SonyHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzmQrcy.png" group-title="LATINO ENTERTAINMENT",Star Channel Chile
+https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/FOXHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Llmjym.png" group-title="LATINO ENTERTAINMENT",Star Life Chile
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Fox_Life/SA_SAGEMCOM/Fox_Life.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="LATINO ENTERTAINMENT",TNT Argentina
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TNT/SA_SAGEMCOM/TNT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0x1fWbw.png" group-title="SPANISH NEWS",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="SPANISH NEWS",CGTN Español
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="LATINO NEWS",teleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fOOqLPb.png" group-title="LATINO SPORTS",Claro Sports
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="LATINO SPORTS",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lneM4RX.png" group-title="LATINO SPORTS",Estadio TNT Sports
+https://d3junmnzdfp8ej.cloudfront.net/hls/tv_720p30.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xgLeXwi.png" group-title="LATINO SPORTS",ESPN Premium
+https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/ESPN_Premiun_HD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="LATINO SPORTS",ESPN Latin America
+https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/ESPN_UY.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="LATINO SPORTS",ESPN 2 Latin America
+https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/ESPN2_UY.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="LATINO SPORTS",ESPN 3 Latin America
+https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/ESPN3_Uy-Py.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="LATINO SPORTS",ESPN 4 Latin America
+https://edge-vod02-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qhBbVAc.png" group-title="LATINO SPORTS",ESPN Extra Latin America
+https://edge-vod02-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPNHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Au1Wa24.png" group-title="LATINO SPORTS",Fox Sports Argentina
+https://edge-vod02-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/FoxSports.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Au1Wa24.png" group-title="LATINO SPORTS",Fox Sports México
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="LATINO SPORTS",Fox Sports 2 Argentina
+https://edge-vod02-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/FoxSports2HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="LATINO SPORTS",Fox Sports 2 México
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8sjQN2.png" group-title="LATINO SPORTS",Fox Sports 3 Latin America
+https://edge-vod02-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/FoxSports3HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8sjQN2.png" group-title="LATINO SPORTS",Fox Sports 3 México
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="LATINO SPORTS",Golf Channel Latin America
+https://edge2-sl.cvattv.com.ar/live/c6eds/Golf_Channel/SA_SAGEMCOM/Golf_Channel.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LATINO SPORTS",TNT Sports 
+https://5g9s179kfgx9wn8tqwj9-cul47i-edc.p5cdn.com/dlive/transcode-92-211/nqefwinooiewpeof/1646158252/src/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="LATINO SPORTS",TyC Sports
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PEP2agz.png" group-title="USA",Univisión Este
+https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
